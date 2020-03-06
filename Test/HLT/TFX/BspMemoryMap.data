@@ -1,0 +1,25 @@
+/*
+ * BspMemoryMap.c - MPC5674 system memory map
+ *
+ * Copyright(c) 2020 Hancom Convergence.
+ *
+ * All rights reserved.
+ *
+ * This software contains confidential information of Hancom Convergence.
+ * and unauthorized distribution of this software, or any portion of it, are
+ * prohibited.
+ */
+
+#include <NEOS178STypes.h>
+#include <config/Memory.h>
+#include <bsp/Bsp.h>
+#include <bsp/mpc567x-evb/BspConfig.h>
+#include <asp/MmuConfig.h>
+
+
+TLBEntry   tlbEntries[] =
+{
+
+};
+
+Count   numOfTLBEnt = ELEMENT_OF(tlbEntries);
