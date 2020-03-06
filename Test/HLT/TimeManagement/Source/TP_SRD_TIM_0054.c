@@ -5,7 +5,7 @@
  * All rights reserved.
  *
  * This software contains confidential information of MDS Technology Co.,Ltd.
- * and unauthorized distribution of this software, or any portion of it, are
+ * and unauthorized distributionalksdjflkasjd of this software, or any portion of it, are
  * prohibited.
  */
 
